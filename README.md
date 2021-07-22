@@ -10,7 +10,9 @@
 * Division
 * Modulus
 ## :hammer_and_wrench: Built in:
-* ![HTML Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw0eIEoKfRXFKH_Pqq9jRZuA&ust=1627046285509000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiyxu3h9vECFQAAAAAdAAAAABAD)
-* ![CSS Logo](https://www.google.com/url sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCSS&psig=AOvVaw1VAnjXvQTdQcQLpk4Uuq8h&ust=1627046356124000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjR6pDi9vECFQAAAAAdAAAAABAD)
-* ![JS Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FJavaScript&psig=AOvVaw2dx8102KqlUsUFellNe-2Y&ust=1627046602211000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICyr4Tj9vECFQAAAAAdAAAAABAD)
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>
+</p>
 
